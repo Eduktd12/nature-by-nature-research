@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Nature by Nature Research"
+message: "If you use public material from this repository, please cite the repository and the relevant public output."
+type: dataset
+authors:
+  - family-names: "Mpulamasaka"
+    given-names: "Nsoni"
+repository-code: "https://github.com/Eduktd12/nature-by-nature-research"
+url: "https://github.com/Eduktd12/nature-by-nature-research"
+abstract: >-
+  Public research and collaboration repository for African molecular biosciences,
+  plant genetics, industrial hemp and Cannabis sativa science, mycology,
+  fermentation and SCOBY systems, natural products, molecular diagnostics,
+  and evidence-informed regulatory science.
+keywords:
+  - African molecular biology
+  - plant genetics
+  - genomics
+  - industrial hemp
+  - Cannabis sativa
+  - cannabis genetics
+  - mycology
+  - fermentation
+  - SCOBY
+  - natural products
+  - molecular diagnostics
+  - regulatory science
+  - Zambia
+  - Southern Africa
+license: CC-BY-4.0
